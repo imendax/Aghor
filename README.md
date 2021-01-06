@@ -8,3 +8,6 @@ Aghor is a signature bases malware detector script, which uses the rules created
  3.Run python Aghor.py < file name >
 
 
+### Note 
+Move Aghor.py in the same directory in which the signatures are present which is signature directory.
+
