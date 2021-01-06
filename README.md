@@ -11,3 +11,4 @@ Aghor is a signature bases malware detector script, which uses the rules created
 ### Note 
 Move Aghor.py in the same directory in which the signatures are present which is Signature directory.
 
+![Semantic description of image](/img/1.png)
